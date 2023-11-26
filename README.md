@@ -51,3 +51,18 @@ console.log() your answer
 Solution is found [RIGHT HERE](./challenge_2.html)
 
 ## Challenge 3 ...coming soon...
+
+**Find the century (easy)**
+
+Use the function "centuryFinder()"
+
+```javascript
+
+Try it with 1500, 600, 2000 and 1700;
+
+Example results:
+        centuryFinder(1600); ->             centuryFinder(1400); ->
+        centuryFinder(400); ->
+        
+
+```
