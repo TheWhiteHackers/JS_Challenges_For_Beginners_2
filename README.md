@@ -49,3 +49,5 @@ Example:
 console.log() your answer
 
 Solution is found [RIGHT HERE](./challenge_2.html)
+
+## Challenge 3 ...coming soon...
