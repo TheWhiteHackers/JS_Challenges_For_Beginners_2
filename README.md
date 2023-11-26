@@ -9,6 +9,8 @@ This is part 2 of the beginner JS challenges
 
 **Get the nth letter of a string**
 
+This is a bit hard for the really new beginners
+
 Use the function "getTheLetter()" to get an specific letter
 
 ```javascript
@@ -25,4 +27,7 @@ Example:
 
 console.log() your answer
 
-Solution is found ![RIGHT HERE](./challenge_1.html)
+Solution is found [RIGHT HERE](./challenge_1.html)
+
+## Challenge 2
+
